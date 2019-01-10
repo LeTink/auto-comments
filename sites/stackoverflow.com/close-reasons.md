@@ -1,3 +1,6 @@
+###[C] Not a programming question =>U&L
+I'm voting to close this question as off-topic because it has nothing to do with programming but should be posted on [Unix&Linux.SE](//unix.stackexchange.com)
+
 ###[C] General Legal or Licensing Question
 I'm voting to close this question because [licensing advice is off-topic on $SITENAME$.](//meta.stackoverflow.com/a/274964) You may be able to get help on [SoftwareEngineering.SE](//softwareengineering.stackexchange.com), but [**read their faq carefully** before proceeding](//softwareengineering.meta.stackexchange.com/questions/7265/when-is-a-software-licensing-question-on-topic). Legal questions may be asked on [Law.SE](//law.stackexchange.com/)
 
